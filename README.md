@@ -1,7 +1,7 @@
 ### Hello! 🖐️
 I am a Junior Software Engineer 💻 with a passion for creating innovative and intuitive web applications 🔥.
 
-With a strong foundation in full-stack development, I utilize Laravel and Express.js on the back-end, and React.js/Next.js on the front-end to bring designs to life 🎨.
+With a strong foundation in full-stack development, I utilize Laravel and Express.js on the back-end, building stable RESTful API's, and React.js/Next.js on the front-end to bring designs to life 🎨.
 
 I also have experience working with both SQL and NoSQL databases, ensuring that the data behind your app is secure and accessible 🔒.
 
